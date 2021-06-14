@@ -1,1 +1,9 @@
 # reading-notes
+
+# Growth mindset
+
+It is a mindset in which a person can utilize by giving himself a chance to try & learn new things in life. It enables the person to achieve greater success by fulfilling his objectives in terms of embracing the productivity & creativity which would develop preserverance, intelligence & effort. The growth mindset occurs on the person when he has the ability to accept challenges & obstacles by persisting them properly & this type of mindset allows the person to accept criticism rather than complaining about it. Once those challenges are completely done, then the person has the mindset of growing & developing himself in a whole new level.
+
+Anytime a person is faced with a challenge at first he/she might not accept it or simply ignoring it which is a tough struggle from the start in which the person's mindset is fixed. However, if the person is willing to accept the challenges & not letting himself down, then he can embrace those challenges by simply doing whatever task is handed to him. Once the challenges are done then the person must be able face the obstacles in which he/she must persist to focus on the task at hand & once that's done, he/she has the effort to take the tasks or work seriously. Then later on the person will get criticised & the options is up to the person & those options are either ignore or accept. If the person accepts criticism, he'll achieve better goals. If the person doesn't accept criticism, it would affect his future.
+
+The person can be able to grow his/her mind either at work or outside the work because every day a person sees a new challenge, but also has the ability to learn from it as well. The person's mindset can improved when he/she has the ability to do what it takes to get to the top by simply focusing on the tasks that the person is willing to think of.
