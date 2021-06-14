@@ -1,1 +1,7 @@
+# Read 01
 
+Github is the most fundamental programming that is used in the modern web design & programming. It was built to replace the HTML, CSS & Javascript to allow the user to build & design his own website by using & mastering the markdown language. Github provides the network hosting for software development which has many advantages of many systems & it also includes the ability to implement software programming languages such as HTML, CSS, C, C#, Java, Python, Javascript, PHP & many other programming languages.
+
+Github is an open source control system which offers a cloud based repository hosting service which allows the user to build & design his own website with any kind of programming language. There's also availablility for users to create repositories & projects which allows them to get available jobs if they are using it every day.
+
+The markdown language is used to replace the HTML, CSS & Javascript which is easy to use & style the forms of writing on the Github system. This method works for implementing lists, images, links, emphasis, etc... The markdown language allows the user to easily read & write the codes into a valid HTML code. Markdown is available not only on Github, but also available in many programming tools such as Adobe Dreamweaver, Microsoft Visual Studio, Netbeans & so on. This language is simple, straightforward & fun to work with which gives the user specific features which improves the user's productivity.
