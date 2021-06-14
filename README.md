@@ -1,5 +1,24 @@
 # reading-notes
 
+
+### Ordered list
+1. Growth mindset
+2. Fixed mindset
+
+### Unordered list
+- Challenges :brain:
+- Obstacles
+- Success 💕
+
+
+![Growth mindset](https://i1.wp.com/atlassianblog.wpengine.com/wp-content/uploads/2015/11/growth-mindset.png?w=1101&ssl=1)https://i1.wp.com/atlassianblog.wpengine.com/wp-content/uploads/2015/11/growth-mindset.png?w=1101&ssl=1
+
+[Growth mindset link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+The growth mindset is **Important**
+
+Having a growth mindset is *Mandatory*
+
 # Growth mindset
 
 It is a mindset in which a person can utilize by giving himself a chance to try & learn new things in life. It enables the person to achieve greater success by fulfilling his objectives in terms of embracing the productivity & creativity which would develop preserverance, intelligence & effort. The growth mindset occurs on the person when he has the ability to accept challenges & obstacles by persisting them properly & this type of mindset allows the person to accept criticism rather than complaining about it. Once those challenges are completely done, then the person has the mindset of growing & developing himself in a whole new level.
