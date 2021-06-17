@@ -23,4 +23,3 @@ CSS consists of 3 methods that can be added in an HTML file or CSS file.
          * <link rel="stylesheet" href="text.css">
 
 Depending on the user's choice, the CSS has many features to create the design the website such as colors, background, and many more
-        
