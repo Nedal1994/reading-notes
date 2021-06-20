@@ -11,3 +11,5 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 * [Read04](https://nedal1994.github.io/reading-notes/read04)
 * [Read05](https://nedal1994.github.io/reading-notes/read05)
 * [Read06](https://nedal1994.github.io/reading-notes/read06)
+* [Read07](https://nedal1994.github.io/reading-notes/read07)
+
