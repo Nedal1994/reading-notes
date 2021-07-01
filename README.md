@@ -4,6 +4,7 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 
 # Table of content
 
+## Course 102
 * [Growth mindset](https://nedal1994.github.io/reading-notes/growth%20mindset)
 * [Read01](https://nedal1994.github.io/reading-notes/read01)
 * [Read02](https://nedal1994.github.io/reading-notes/read02)
@@ -12,3 +13,6 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 * [Read05](https://nedal1994.github.io/reading-notes/read05)
 * [Read06](https://nedal1994.github.io/reading-notes/read06)
 * [Read07](https://nedal1994.github.io/reading-notes/read07)
+
+
+## Course 201
