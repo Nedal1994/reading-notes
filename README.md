@@ -16,3 +16,4 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 
 
 ## Code 201 Reading notes
+* [Class01](https://nedal1994.github.io/reading-notes/201/class01)
