@@ -40,3 +40,25 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 | Class13 |  [Class13](https://nedal1994.github.io/reading-notes/201/class13) |
 | Class14a |  [Class14a](https://nedal1994.github.io/reading-notes/201/class14a) |
 | Class14b |  [Class14b](https://nedal1994.github.io/reading-notes/201/class14b) |
+
+## Code 301 Reading notes
+
+
+| Name  | Link  |
+|---|---|
+| Read01 |  [Read01](https://nedal1994.github.io/reading-notes/301/read01) |
+| Read02 |  [Read02](https://nedal1994.github.io/reading-notes/301/read02) |
+| Read03 |  [Read03](https://nedal1994.github.io/reading-notes/301/read03) |
+| Read04 |  [Read04](https://nedal1994.github.io/reading-notes/301/read04) |
+| Read05 |  [Read05](https://nedal1994.github.io/reading-notes/301/read05) |
+| Read06 |  [Read06](https://nedal1994.github.io/reading-notes/301/read06) |
+| Read07 |  [Read07](https://nedal1994.github.io/reading-notes/301/read07) |
+| Read08 |  [Read08](https://nedal1994.github.io/reading-notes/301/read08) |
+| Read09 |  [Read09](https://nedal1994.github.io/reading-notes/301/read09) |
+| Read10 |  [Read10](https://nedal1994.github.io/reading-notes/301/read10) |
+| Read11 |  [Read11](https://nedal1994.github.io/reading-notes/301/read11) |
+| Read12 |  [Read12](https://nedal1994.github.io/reading-notes/301/read12) |
+| Read13 |  [Read13](https://nedal1994.github.io/reading-notes/301/read13) |
+| Read14 |  [Read14](https://nedal1994.github.io/reading-notes/301/read14) |
+| Read15 |  [Read15](https://nedal1994.github.io/reading-notes/301/read15) |
+
