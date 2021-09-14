@@ -1,0 +1,14 @@
+# Read13 Summary
+
+![image](https://pbs.twimg.com/media/CVxyhItW4AAGt9-.jpg)
+
+When women stopped coding, the share of women in computer science started falling at roughly the same moment when personal computers started showing up in U.S. homes in significant numbers. This idea that computers are for boys became a narrative. It became the story we told ourselves about the computing revolution. It helped define who geeks were and it created techie culture. In the 1990s, a researcher named Jane Margolis interviewed hundreds of computers science students at Carnegie Mellon, which had one of the top programs in the country. She found that families were much more likely to buy computers for boys than for girls — even when their girls were really interested in computers.
+
+[Diversity tech](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
+
+
+If you recruit for or work in the technology industry, then you probably already know that most product teams can feel about as diverse as a box of Altoids. But do you know just how bad the numbers are? If not, there’s a good chance you’re actually underestimating the lack of diversity in tech. Not to mention that those stats are crucial context for effectively finding and vetting diverse talent.In the last 12 months, Facebook, Apple, eBay and Microsoft hired 1% more women. LinkedIn increased their female staff by 3%. Google’s gender ratio stayed the same. Microsoft gained 3% non-white employees, Facebook 2%; while Google, Apple and eBay increased their non-white staff by 1%. LinkedIn lost 3% of its non-white employees. Within the companies who expanded their ethnic diversity, Asian staff accounted for the majority of the increase, while the ratio of Hispanic employees remained static. Apple registered the biggest jump: 3% increase in Asian hires.
+
+![diversity](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/diversity_audit.jpg)
+
+Diversity efforts are most successful when they’re driven by a commitment from company leaders. And meaningful commitment requires leaders to understand why diversity matters. At Paradigm, we spend a lot of time brainstorming with CEOs and other company leaders about what is or should be driving their diversity and inclusion efforts. When the employees of an organization better represent their users and desired users, they will build more effectively for those groups. When YouTube’s almost entirely right-handed developer team built the iOS app without considering how left-handed people would use it, for example, 5% to 10% of videos were uploaded upside down as a result. This factor may be especially relevant for leaders of consumer tech companies.
