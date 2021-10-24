@@ -62,3 +62,45 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 | Read14 |  [Read14](https://nedal1994.github.io/reading-notes/301/read14) |
 | Read15 |  [Read15](https://nedal1994.github.io/reading-notes/301/read15) |
 
+## Code 401-Javascript Reading notes
+
+
+| Name  | Link  |
+|---|---|
+| Read01 |  [Read01](https://nedal1994.github.io/reading-notes/401/read01) |
+| Read02 |  [Read02](https://nedal1994.github.io/reading-notes/401/read02) |
+| Read03 |  [Read03](https://nedal1994.github.io/reading-notes/401/read03) |
+| Read04 |  [Read04](https://nedal1994.github.io/reading-notes/401/read04) |
+| Read05 |  [Read05](https://nedal1994.github.io/reading-notes/401/read05) |
+| Read06 |  [Read06](https://nedal1994.github.io/reading-notes/401/read06) |
+| Read07 |  [Read07](https://nedal1994.github.io/reading-notes/401/read07) |
+| Read08 |  [Read08](https://nedal1994.github.io/reading-notes/401/read08) |
+| Read09 |  [Read09](https://nedal1994.github.io/reading-notes/401/read09) |
+| Read10 |  [Read10](https://nedal1994.github.io/reading-notes/401/read10) |
+| Read11 |  [Read11](https://nedal1994.github.io/reading-notes/401/read11) |
+| Read12 |  [Read12](https://nedal1994.github.io/reading-notes/401/read12) |
+| Read13 |  [Read13](https://nedal1994.github.io/reading-notes/401/read13) |
+| Read14 |  [Read14](https://nedal1994.github.io/reading-notes/401/read14) |
+| Read15 |  [Read15](https://nedal1994.github.io/reading-notes/401/read15) |
+| Read16 |  [Read16](https://nedal1994.github.io/reading-notes/401/read16) |
+| Read17 |  [Read17](https://nedal1994.github.io/reading-notes/401/read17) |
+| Read18 |  [Read18](https://nedal1994.github.io/reading-notes/401/read18) |
+| Read19 |  [Read19](https://nedal1994.github.io/reading-notes/401/read19) |
+| Read26 |  [Read26](https://nedal1994.github.io/reading-notes/401/read26) |
+| Read27 |  [Read27](https://nedal1994.github.io/reading-notes/401/read27) |
+| Read28 |  [Read28](https://nedal1994.github.io/reading-notes/401/read28) |
+| Read29 |  [Read29](https://nedal1994.github.io/reading-notes/401/read29) |
+| Read30 |  [Read30](https://nedal1994.github.io/reading-notes/401/read30) |
+| Read31 |  [Read31](https://nedal1994.github.io/reading-notes/401/read31) |
+| Read32 |  [Read32](https://nedal1994.github.io/reading-notes/401/read32) |
+| Read33 |  [Read33](https://nedal1994.github.io/reading-notes/401/read33) |
+| Read34 |  [Read34](https://nedal1994.github.io/reading-notes/401/read34) |
+| Read35 |  [Read35](https://nedal1994.github.io/reading-notes/401/read35) |
+| Read36 |  [Read36](https://nedal1994.github.io/reading-notes/401/read36) |
+| Read37 |  [Read37](https://nedal1994.github.io/reading-notes/401/read37) |
+| Read38 |  [Read38](https://nedal1994.github.io/reading-notes/401/read38) |
+| Read39 |  [Read39](https://nedal1994.github.io/reading-notes/401/read39) |
+| Read40 |  [Read40](https://nedal1994.github.io/reading-notes/401/read40) |
+| Read41 |  [Read41](https://nedal1994.github.io/reading-notes/401/read41) |
+| Read42 |  [Read42](https://nedal1994.github.io/reading-notes/401/read42) |
+| Read43 |  [Read43](https://nedal1994.github.io/reading-notes/401/read43) |
