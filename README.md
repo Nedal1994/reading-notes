@@ -67,6 +67,7 @@ My name is Nedal Al Saleh & I'm a fresh graduate from Khawarizmi International C
 
 | Name  | Link  |
 |---|---|
+| Prep401 |  [Prep401](https://nedal1994.github.io/reading-notes/401/prep401) |
 | Read01 |  [Read01](https://nedal1994.github.io/reading-notes/401/read01) |
 | Read02 |  [Read02](https://nedal1994.github.io/reading-notes/401/read02) |
 | Read03 |  [Read03](https://nedal1994.github.io/reading-notes/401/read03) |
