@@ -1,0 +1,11 @@
+# Read33 Summary
+
+![rbac](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/157768i9B4DB655ED1FDE29/image-size/large?v=v2&px=999)
+
+Role-based access control allows or restricts user access to data based solely on the user's role within the organization.Role-based access control (RBAC) is a method for controlling what users are able to do within a company's IT systems. RBAC accomplishes this by assigning one or more "roles" to each user, and giving each role different permissions. RBAC can be applied for a single software application or across multiple applications.In cyber security, access control refers to tools for restricting and controlling what users are able to do and what data they are able to see. Entering a passcode to unlock a smartphone is one basic example of access control: only someone who knows the passcode is able to access the files and applications on the phone.A role has a more technical definition in RBAC: it is a clearly defined set of abilities, or permissions, for use within company systems. Each internal user has at least one role assigned to them, and some may have multiple roles. Roles are generic and are not tailored to any one employee within an organization. In the context of access control, a permission is the ability to perform an action. One example could be the ability to upload a file to a company database. A trusted user — say, an internal employee — will have permission to upload files, while an external contractor may not have this ability. In RBAC, every possible role comes with a set of permissions.
+
+![react-cookies](https://cdn.devdojo.com/posts/images/February2021/working-with-browser-cookie-in-react.jpg?auto=format&q=70&w=1280)
+
+**useCookies([dependencies])**
+
+React-Cookies are the data stored in the form of key-value pairs that are used to store information about the user on their computer by the websites that the users browse and use it to verify them. To set or remove the cookies, we are using a third-party dependency of react-cookie
