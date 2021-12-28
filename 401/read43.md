@@ -1,0 +1,13 @@
+# Read43 Summary
+
+Github is the most fundamental programming that is used in the modern web design & programming. It was built to replace the HTML, CSS & Javascript to allow the user to build & design his own website by using & mastering the markdown language. Github provides the network hosting for software development which has many advantages of many systems & it also includes the ability to implement software programming languages such as HTML, CSS, C, C#, Java, Python, Javascript, PHP & many other programming languages.
+
+Github is an open source control system which offers a cloud based repository hosting service which allows the user to build & design his own website with any kind of programming language. There's also availablility for users to create repositories & projects which allows them to get available jobs if they are using it every day.
+
+The markdown language is used to replace the HTML, CSS & Javascript which is easy to use & style the forms of writing on the Github system. This method works for implementing lists, images, links, emphasis, etc... The markdown language allows the user to easily read & write the codes into a valid HTML code. Markdown is available not only on Github, but also available in many programming tools such as Adobe Dreamweaver, Microsoft Visual Studio, Netbeans & so on. This language is simple, straightforward & fun to work with which gives the user specific features which improves the user's productivity.
+
+It can be hard to imagine that many of the applications and programs we use today are built by hundreds of thousands, even millions, of people all over the world. Open-source software (OSS) is a rapidly growing industry that provides many benefits to the individuals and businesses who use it, as well as to its programmers.
+
+For many outside of the IT world, the concept of contributing to open-source software seems like a remarkable psychological phenomenon, as many of the contributors do it by their own free will and are quite often unpaid for it. The thought of contributing to something that requires a good amount of time without getting a dime for their work can be hard to fully understand.
+
+However, for developers especially, contributing to open-source software provides many valuable advantages and opens doors to a number of highly lucrative and rewarding opportunities, and there are not too many other industries that can boast the massive number of global contributions like the open-source community can.
